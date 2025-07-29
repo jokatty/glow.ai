@@ -1,13 +1,13 @@
-# Nosy.ai - AI-Powered Beauty & Aesthetic Enhancement
+# Glow.ai - AI-Powered Beauty & Aesthetic Enhancement
 
 <div align="center">
-  <img src="assets/logo.png" alt="Nosy.ai Logo" width="200"/>
+  <img src="assets/logo.png" alt="Glow.ai Logo" width="200"/>
   <p><em>Transform your selves with AI</em></p>
 </div>
 
 ## 🌟 Overview
 
-Nosy.ai is an innovative AI-powered application that revolutionizes beauty and aesthetic enhancement through advanced machine learning algorithms. Our platform offers personalized beauty recommendations, virtual try-ons, skin analysis, and aesthetic consultations powered by state-of-the-art AI technology.
+Glow.ai is an innovative AI-powered application that revolutionizes beauty and aesthetic enhancement through advanced machine learning algorithms. Our platform offers personalized beauty recommendations, virtual try-ons, skin analysis, and aesthetic consultations powered by state-of-the-art AI technology.
 
 ## What problem does the app solve:
 
@@ -96,8 +96,8 @@ Users concerned with their aesthetics can get a glimps of their future selves po
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/nosy.ai.git
-   cd nosy.ai
+   git clone https://github.com/your-username/glow.ai.git
+   cd glow.ai
    ```
 
 2. **Install dependencies**
@@ -140,7 +140,7 @@ Our mobile application is available on:
 
 ```env
 # Database
-DATABASE_URL=postgresql://user:password@localhost:5432/nosy_ai
+DATABASE_URL=postgresql://user:password@localhost:5432/glow_ai
 REDIS_URL=redis://localhost:6379
 
 # GCP Configurations
