@@ -1,8 +1,8 @@
 # Glow.ai - AI-Powered Beauty & Aesthetic Enhancement
 
 <div align="center">
-  <img src="assets/logo.png" alt="Glow.ai Logo" width="200"/>
-  <p><em>Transform your selves with AI</em></p>
+  <img src="assets/logo.png" alt="glow.ai Logo" width="200"/>
+  <p><em>move with <s>confidence</s> ai</em></p>
 </div>
 
 ## 🌟 Overview
@@ -15,12 +15,8 @@ Users concerned with their aesthetics can get a glimps of their future selves po
 
 ## ✨ Features
 
-### 🎨 Virtual Beauty Try-On
-
-- **Real-time AR filters** for makeup, hairstyles, and accessories
-- **Skin tone matching** for accurate color recommendations
-- **Before/after comparisons** with realistic transformations
-- **Multiple style presets** for different occasions
+- analyse facial type
+-
 
 ### 🔬 AI-Powered Skin Analysis
 
